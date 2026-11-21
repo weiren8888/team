@@ -1,5 +1,5 @@
-# 資料夾目錄
+# 檔案說明
 
-| 項次 | 資料名稱 | 發佈連結位址 |
+| 項次 | 檔案名稱 | 瀏覽連結 |
 | --- | --- | --- |
-| 1 | [AIDMS BDM 核心業務說明（經銷體系 v2）](mission/) | [https://weiren8888.github.io/team/mission/activities-team-ch_v2.html](https://weiren8888.github.io/team/mission/activities-team-ch_v2.html) |
+| 1 | [核心業務說明文件](mission/) | [https://weiren8888.github.io/team/mission/activities-team-ch_v2.html](https://weiren8888.github.io/team/mission/activities-team-ch_v2.html) |
